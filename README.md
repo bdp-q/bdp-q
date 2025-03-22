@@ -1,5 +1,5 @@
 ## Hi there 👋
-  My name is Breno Demio Padilha and i'm in my first semester of Computer Science in the Federal University of Parana!
+  My name is Breno Demio Padilha and i'm in my first semester of Computer Science in Federal University of Parana!
 
   this Readme page is yet to be better configured, stay tuned!!
 
