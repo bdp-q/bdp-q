@@ -1,5 +1,12 @@
 ## Hi there 👋
+  My name is Breno Demio Padilha and i'm in my first semester of Computer Science in the Federal University of Parana!
 
+  this Readme page is yet to be better configured, stay tuned!!
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bdp-q/count.svg" />
+</p>
 <!--
 **bdp-q/bdp-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
